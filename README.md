@@ -10,7 +10,7 @@ After git clone
 ### Features and Screens
 GSNASA has simple UI of HomeTab,FavoritesTab,Details screen
 #### Hometab
-Hometab screen has list of images where user can view the latest image and some randomly generated images which helps in keeping the user engaged in this screen.To generate new images or viedos user can **PULL DOWN** the flat list which generates new set of images or videos in the list.User can see the date and few lines of the explanation in the card view .To see the full image and explanation user can click on the image to navigate to the details screen.In offline mode last fetched date's image is shown with details
+Hometab screen has list of images where user can view the latest image and some randomly generated images which helps in keeping the user engaged in this screen.To generate new images or viedos user can **PULL DOWN** the flat list which generates new set of images or videos in the list.User can see the date and few lines of the explanation in the card view .To see the full image and explanation user can click on the image to navigate to the details screen.In offline mode last fetched date's image is shown with details<br>
 #### Search by date
 User can search image or video of a particular date by using the calender button available on the top in home screen. After selecting a particular date user will be navigated to screen displaying the details and image content of that screen
 #### Details Screen
@@ -23,6 +23,16 @@ If data is not available due to network issues . User can view only last fetched
 React Native CLI<br>
 Android studio <br>
 NASA Apis<br>
+### Screenshots
+##### HomeTab
+<img src="https://github.com/singulurisuma/NASAAPOD/blob/main/GSNASA/readmeImages/Home1.png" width="300" height="500"></img><br>            <br>
+<img src="https://github.com/singulurisuma/NASAAPOD/blob/main/GSNASA/readmeImages/Videohome.png" width="300" height="500"></img><br>
+##### Search by date <br>
+<img src="https://github.com/singulurisuma/NASAAPOD/blob/main/GSNASA/readmeImages/Date1.png" width="300" height="500"></img><br>
+##### Details and explanation <br>
+<img src="https://github.com/singulurisuma/NASAAPOD/blob/main/GSNASA/readmeImages/detailsvideo.png" width="300" height="500"></img><br>
+##### Favorites <br>
+<img src="https://github.com/singulurisuma/NASAAPOD/blob/main/GSNASA/readmeImages/favorites.png" width="300" height="500">
 
 
 
