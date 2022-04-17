@@ -1,5 +1,5 @@
 # GSNASA
-This is a mini app named GSNASA that uses Nasa APOD apis to fetch the images and viedos and their explanation. User can add and manage his favorites.User can also search for image or video on a particular date.In offline storage is mode user can view and manage his favorites and see last fetched date's image
+This is a mini app named GSNASA that uses Nasa APOD apis to fetch the images and videos and their explanation. User can add and manage his favorites.User can also search for image or video on a particular date.In offline storage mode user can view and manage his favorites and see last fetched date's image
 ### Installation 
 After git clone 
 1. cd nasaapod<br>
