@@ -20,9 +20,9 @@ Favorites Screen has tile view to see all the favorites add by the user. This sc
 #### Offline mode
 If data is not available due to network issues . User can view only last fetched date's image and its details and can view and manage his favorites 
 ### Technology and platforms used
-React Native CLI
-Android studio
-NASA Apis
+React Native CLI<br>
+Android studio <br>
+NASA Apis<br>
 
 
 
